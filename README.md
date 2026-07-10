@@ -1,6 +1,6 @@
 # 100 Prisoners
 
-Monte Carlo simulation and exact analysis of the [100 prisoners problem](https://en.wikipedia.org/wiki/100_prisoners_problem), generalized to $n$ prisoners. \
+Monte Carlo simulation and exact analysis of the [100 prisoners problem](https://www.youtube.com/watch?v=iSNsgj1OCLA), generalized to $n$ prisoners. \
 Compares the loop strategy to independent random guesses.
 
 ![preview](docs/preview.png)
